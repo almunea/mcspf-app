@@ -1,0 +1,8 @@
+{
+  "name": "mcspf-app",
+  "app_id": "124c3ced",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
